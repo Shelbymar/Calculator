@@ -28,7 +28,6 @@ body {
 .calc-grid > button {
     font-size: 2rem;
     border: 2px solid white;
-    cursor: pointer;
     outline: none;
 }
 
@@ -55,7 +54,7 @@ body {
     word-break: break-all;
     margin-bottom: px;
     border: 10px solid white;
-    min-height: 108px;
+    min-height: 120px;
 }
 
 .output .previous {
