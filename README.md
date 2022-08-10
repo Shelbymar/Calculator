@@ -1,6 +1,5 @@
 CALCULATOR
-Build a calculator using what ive learned so far.
 
-TODO-
-fix css
-add a spot in display for current operator
+A simple calculator using HTML, CSS, and Javascript.
+
+A functioning calculator with addition, subtraction, multiplication, and division. Also has A/C and delete buttons with a visually appealing layout. 
